@@ -1,0 +1,884 @@
+.turn-your-small {
+  margin: 0;
+  align-self: stretch;
+  height: 132px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 33px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.group-icon {
+  width: 163px;
+  position: relative;
+  max-height: 100%;
+}
+.title-and-picture {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 107px;
+}
+.whole {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.when-you-opt {
+  margin: 0;
+  align-self: stretch;
+  height: 50px;
+  position: relative;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+  line-height: 25px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.every-010-you {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+}
+.contribute {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0px 108px 0px 0px;
+}
+.grab-child {
+  height: 58px;
+  width: 166px;
+  position: relative;
+  display: none;
+}
+.group-icon1 {
+  width: 66.92%;
+  height: 12.96%;
+  position: absolute;
+  margin: 0 !important;
+  top: 9.72%;
+  right: 33.38%;
+  bottom: 77.32%;
+  left: -0.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 0;
+}
+.got-2-minutes {
+  width: 153px;
+  position: relative;
+  line-height: 17px;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.swipe-to-check {
+  margin: 0;
+}
+.swipe-to-check-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 17px;
+  font-weight: 500;
+  z-index: 2;
+}
+.minutes {
+  height: 71px;
+  width: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 3px;
+}
+.grab {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.text {
+  align-self: stretch;
+  height: 357px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.screen1-elements {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+  font-size: 14px;
+}
+.greenline1-icon {
+  width: 177px;
+  position: absolute;
+  margin: 0 !important;
+  height: 12.95%;
+  top: 58.22%;
+  bottom: 28.82%;
+  left: calc(50% - 77.5px);
+  max-height: 100%;
+  z-index: 2;
+}
+.greenline2-icon {
+  width: 90.6px;
+  height: 8.13%;
+  position: absolute;
+  margin: 0 !important;
+  top: 76.83%;
+  bottom: 15.04%;
+  left: calc(50% - 34.5px);
+  max-height: 100%;
+  z-index: 3;
+}
+.screen1 {
+  align-self: stretch;
+  height: 833px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 38px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 22px;
+  background-image: url("./public/screen1@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 30px;
+  color: #005339;
+  font-family: "Grab Community Solid EN";
+}
+.did-you-know {
+  align-self: stretch;
+  position: relative;
+}
+.bangkoks-air-was {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 30px;
+  letter-spacing: -0.01em;
+  line-height: 33px;
+  font-weight: 800;
+  font-family: inherit;
+  color: #005339;
+}
+.did-you-know-parent {
+  align-self: stretch;
+  height: 154px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+  color: #00b14f;
+}
+.your-support-for {
+  font-weight: 500;
+}
+.biochar-life-programme {
+  font-weight: 800;
+}
+.your-support-for-container {
+  flex: 1;
+  position: relative;
+  line-height: 18.5px;
+}
+.your-support-for-the-biochar-l-wrapper {
+  align-self: stretch;
+  height: 111px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 88px 0px 0px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.group-icon2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.biochar-absorbs-harmful {
+  width: 147.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 141.5px;
+  left: 13.5px;
+  line-height: 12px;
+  font-weight: 500;
+  display: inline-block;
+  transform: rotate(6.3deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.group-parent {
+  width: 190.2px;
+  height: 190.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 16px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+  z-index: 2;
+  font-size: 9px;
+}
+.this-contribution-also {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 129px;
+}
+.contribution-child {
+  height: 67px;
+  width: 90px;
+  position: relative;
+}
+.contribution {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 10px;
+}
+.group-icon3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 0;
+}
+.share-this-effort {
+  width: 136px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Grab Community Solid EN";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.group-group {
+  cursor: pointer;
+  border: none;
+  padding: 8px 10px;
+  background-color: transparent;
+  width: 156.6px;
+  height: 34.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+}
+.contribution-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 69px;
+  z-index: 3;
+}
+.group-icon4 {
+  width: 110.1px;
+  height: 11.84%;
+  position: absolute;
+  margin: 0 !important;
+  top: 20.89%;
+  bottom: 67.27%;
+  left: calc(50% - 16.5px);
+  max-height: 100%;
+  z-index: 4;
+}
+.group-icon5 {
+  width: 82.8px;
+  height: 13.13%;
+  position: absolute;
+  margin: 0 !important;
+  top: 42.02%;
+  bottom: 44.85%;
+  left: calc(50% - 129.7px);
+  max-height: 100%;
+  z-index: 5;
+}
+.group-icon6 {
+  width: 185.1px;
+  height: 14.42%;
+  position: absolute;
+  margin: 0 !important;
+  top: 57.86%;
+  bottom: 27.72%;
+  left: calc(50% - 45.7px);
+  max-height: 100%;
+  z-index: 6;
+}
+.screen2-child {
+  width: 147.7px;
+  height: 7.03%;
+  position: absolute;
+  margin: 0 !important;
+  top: 84.03%;
+  bottom: 8.93%;
+  left: calc(50% - 71.8px);
+  max-height: 100%;
+  z-index: 7;
+}
+.screen2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 49px 38px 33px;
+  position: relative;
+  gap: 34px;
+  background-image: url("./public/screen2@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 14px;
+  color: #005339;
+  font-family: "Grab Community Solid EN";
+}
+.theres-a-type {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.01em;
+  line-height: 33px;
+  font-weight: 800;
+  font-family: inherit;
+}
+.tree-furniture {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: #005339;
+}
+.furniture {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.one-of-the {
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.lts-the-critically-container {
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 151px;
+}
+.rosewood-child {
+  height: 68px;
+  width: 57px;
+  position: relative;
+}
+.rosewood {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 10px;
+  color: #005339;
+}
+.tree-type {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+  z-index: 0;
+  color: #00b14f;
+}
+.thai-rosewood-is {
+  width: 148.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 141.6px;
+  left: 18.3px;
+  line-height: 12px;
+  font-weight: 500;
+  display: inline-block;
+  transform: rotate(6.3deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.rare-tree {
+  width: 191.6px;
+  height: 191.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 14px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+  z-index: 1;
+  font-size: 9px;
+}
+.your-010-allows-container {
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 123px;
+}
+.allows-work-child {
+  height: 75px;
+  width: 100px;
+  position: relative;
+}
+.share-this-effort1 {
+  width: 135px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Grab Community Solid EN";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.group-container {
+  cursor: pointer;
+  border: none;
+  padding: 7px 10px;
+  background-color: transparent;
+  width: 155.4px;
+  height: 34.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+}
+.eco-matcher {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 59px;
+  z-index: 2;
+}
+.group-icon9 {
+  width: 71.9px;
+  height: 5.95%;
+  position: absolute;
+  margin: 0 !important;
+  top: 24.75%;
+  bottom: 69.3%;
+  left: calc(50% - 85.8px);
+  max-height: 100%;
+  z-index: 3;
+}
+.group-icon10 {
+  width: 83.3px;
+  height: 14.37%;
+  position: absolute;
+  margin: 0 !important;
+  top: 40.75%;
+  bottom: 44.88%;
+  left: calc(50% - 135.6px);
+  max-height: 100%;
+  z-index: 4;
+}
+.group-icon11 {
+  width: 70.6px;
+  height: 5.31%;
+  position: absolute;
+  margin: 0 !important;
+  top: 68.35%;
+  bottom: 26.34%;
+  left: calc(50% - 81.2px);
+  max-height: 100%;
+  z-index: 5;
+}
+.screen3-child {
+  width: 169.2px;
+  height: 6.21%;
+  position: absolute;
+  margin: 0 !important;
+  top: 85.41%;
+  bottom: 8.38%;
+  left: calc(50% - 92.4px);
+  max-height: 100%;
+  z-index: 6;
+}
+.screen3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 49px 38px 31px;
+  position: relative;
+  gap: 47px;
+  background-image: url("./public/screen3@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 14px;
+  color: #005339;
+  font-family: "Grab Community Solid EN";
+}
+.and-journey {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.your-10-cent-also-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 149px;
+}
+.protect-child {
+  width: 43px;
+  position: relative;
+  height: 22px;
+}
+.protect {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 9px;
+  font-size: 14px;
+}
+.journey {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.screen4 {
+  align-self: stretch;
+  height: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 43px 47px;
+  box-sizing: border-box;
+  background-image: url("./public/screen4@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 30px;
+  color: #005339;
+  font-family: "Grab Community Solid EN";
+}
+.adds-up {
+  align-self: stretch;
+  height: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.since-2021-theyve {
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+}
+.adds-up1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+.since-help {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.group-icon12 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.over {
+  font-weight: 500;
+  font-family: "Grab Community Solid EN";
+}
+.have-been-planted {
+  margin: 0;
+  font-weight: 500;
+}
+.over-12-million-container {
+  width: 148.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 141.7px;
+  left: 11.4px;
+  line-height: 12px;
+  display: inline-block;
+  transform: rotate(6.3deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.million-trees {
+  width: 191.8px;
+  height: 191.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 8px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+  z-index: 1;
+  font-size: 9px;
+  color: #005339;
+}
+.doesnt-stop-child {
+  width: 50px;
+  position: relative;
+  height: 57px;
+}
+.doesnt-stop {
+  width: 301px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.frame-child {
+  width: 85px;
+  position: relative;
+  height: 49px;
+}
+.share-your-support {
+  width: 142px;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.01em;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: "Grab Community Solid EN";
+  color: #005339;
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.share-your-support-for-the-gre-wrapper {
+  cursor: pointer;
+  border: none;
+  padding: 5px 23px;
+  background-color: #a0d92a;
+  height: 48.6px;
+  width: 187.9px;
+  border-radius: 35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 29px;
+}
+.but-stop {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 29px;
+}
+.mother-nature {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+  font-size: 14px;
+}
+.group-icon13 {
+  width: 99.9px;
+  height: 6.16%;
+  position: absolute;
+  margin: 0 !important;
+  top: 19.43%;
+  bottom: 74.42%;
+  left: calc(50% - 55.5px);
+  max-height: 100%;
+  z-index: 3;
+}
+.group-icon14 {
+  width: 76.1px;
+  height: 5.95%;
+  position: absolute;
+  margin: 0 !important;
+  top: 32.03%;
+  bottom: 62.03%;
+  left: calc(50% - 62.5px);
+  max-height: 100%;
+  z-index: 4;
+}
+.group-icon15 {
+  width: 88.3px;
+  height: 5.61%;
+  position: absolute;
+  margin: 0 !important;
+  top: 67.11%;
+  bottom: 27.27%;
+  left: calc(50% - 106.5px);
+  max-height: 100%;
+  z-index: 5;
+}
+.screen5-child {
+  width: 42.8px;
+  height: 10.4%;
+  position: absolute;
+  margin: 0 !important;
+  top: 75.73%;
+  bottom: 13.88%;
+  left: calc(50% + 45.5px);
+  max-height: 100%;
+  z-index: 6;
+}
+.screen5 {
+  align-self: stretch;
+  height: 627px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 18px 37px 15px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 32px;
+  background-image: url("./public/screen5@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 30px;
+  color: #fff;
+  font-family: "Grab Community Solid EN";
+}
+.in1screen {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 350px;
+  max-width: 480px;
+  line-height: normal;
+  letter-spacing: normal;
+}
